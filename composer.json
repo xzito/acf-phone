@@ -1,5 +1,6 @@
 {
   "name": "xzito/acf-phone",
+  "version": "1.0.3",
   "description": "Phone number field for Advanced Custom Field v5.",
   "type": "wordpress-plugin",
   "license": "GPL-3.0",
